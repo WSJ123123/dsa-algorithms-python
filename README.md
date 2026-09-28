@@ -1,5 +1,8 @@
 # Classic Algorithms in Python — Greedy, Backtracking & A* Search
 
+[![tests](https://github.com/WSJ123123/dsa-algorithms-python/actions/workflows/tests.yml/badge.svg)](https://github.com/WSJ123123/dsa-algorithms-python/actions/workflows/tests.yml)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+
 Three algorithm-design paradigms implemented **from scratch in pure Python** (no external algorithm, graph, sorting-library or priority-queue packages), each as an interactive console program with input validation and a pytest suite.
 
 | Paradigm | Problem | File | Time complexity |
@@ -37,7 +40,7 @@ S . . . . .          S = start   G = goal
 
 ## Running
 
-Requires Python 3.8+. No dependencies for the programs themselves.
+Requires Python 3.9+. No dependencies for the programs themselves.
 
 ```bash
 python fractional_knapsack.py
